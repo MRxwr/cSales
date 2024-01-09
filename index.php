@@ -1,4 +1,5 @@
 <?php
+/*
 session_start();
 require("templates/header.php");
 require("templates/navbar.php");
@@ -22,4 +23,7 @@ if( isset($_GET["v"]) && searchFile("views","blade{$_GET["v"]}.php") ){
 
 require("templates/modals.php");
 require("templates/footer.php");
+
+*/
+
 ?>
