@@ -25,5 +25,5 @@ require("templates/modals.php");
 require("templates/footer.php");
 
 */
-
+echo "hi";
 ?>
